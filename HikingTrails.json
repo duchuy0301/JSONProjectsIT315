@@ -6,7 +6,7 @@
     {"FoodImage":"http://www.protogic.com/images/Strickler_Knob.jpg","FoodCost":"$9.10","FoodName":"Strickler Knob","TrailWebsite":"https://www.hikingupward.com/GWNF/StricklerKnob/"},
     {"FoodImage":"http://www.protogic.com/images/Crabtree_Falls.jpg","FoodCost":"$4.40","FoodName":"Crabtree Falls","TrailWebsite":"https://www.hikingupward.com/GWNF/CrabtreeFalls/"},
     {"FoodImage":"http://www.protogic.com/images/Signal_Knob.jpg","FoodCost":"$9.90","FoodName":"Signal Knob","TrailWebsite":"https://www.hikingupward.com/GWNF/SignalKnob/"},
-    {"FoodImage":"http://www.protogic.com/images/Overall_Run.jpg","FoodCost":"$8.50","FoodName":"Overall Run \/ Beecher Ridge","TrailWebsite":"https://www.hikingupward.com/SNP/OverallRunBeecherRidge/"}
+    {"FoodImage":"http://www.protogic.com/images/Overall_Run.jpg","FoodCost":"$8.50","FoodName":"Overall Run \/ Beecher Ridge","TrailWebsite":"https://www.hikingupward.com/SNP/OverallRunBeecherRidge/"},
   ],
   "Status":"OK"
 }
